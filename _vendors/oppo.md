@@ -1,4 +1,4 @@
----
+88---
 name: Oppo
 manufacturer:
   - oppo
@@ -11,7 +11,7 @@ We have currently only information for Oppo F1S, but on other models the situati
 
 user_solution: "
 
-## Oppo F1S
+## Oppo A5s
 
 Background services are being killed (including accessibility services, which then need re-enabling) every time you turn the screen off. So far, a workaround for this is:
 
